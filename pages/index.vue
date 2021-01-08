@@ -1,5 +1,5 @@
 <template>
-  <div class="container">prout</div>
+  <div class="container">bonjour</div>
 </template>
 
 <script>
