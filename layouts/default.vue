@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>
+    <div class="mt-48">
       <nuxt-link to="/">Home</nuxt-link>
       <nuxt-link to="/contact">Contact</nuxt-link>
     </div>
