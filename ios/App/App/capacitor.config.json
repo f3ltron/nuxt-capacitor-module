@@ -1,0 +1,13 @@
+{
+  "appId": "nuxt.twitter.example",
+  "appName": "twitter-nuxt-capacitor",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
